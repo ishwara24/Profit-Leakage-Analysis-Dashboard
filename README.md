@@ -25,7 +25,7 @@ Identifying and optimizing high-discount SKUs can improve profit margins by 3–
 | File | Description |
 |------|--------------|
 | `Profit_Leakage_Analysis_Ishwara.pbix` | Main Power BI dashboard file |
-| `CleanedData_SuperStore.xlsx` | (Optional) Cleaned dataset used for analysis |
+| `superstore cleaned data by ishwara.xlsx` | (Cleaned dataset used for analysis |
 | `README.md` | Project documentation |
 
 ### 🚀 How to Use
