@@ -132,7 +132,7 @@ Regional pricing and discount strategies should be localized instead of uniforml
 
 ---
 
-## 🎯 Final Analyst Conclusion
+##  Final Analyst Conclusion
 Profit leakage is not caused by low sales but by inefficient discounting and pricing decisions.  
 By shifting focus from revenue to transaction-level profitability, businesses can realistically improve margins by **3–5% annually** without increasing sales volume.
 
