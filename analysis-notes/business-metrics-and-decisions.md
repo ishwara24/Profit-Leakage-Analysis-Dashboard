@@ -1,14 +1,14 @@
-# 📊 Analyst Decision Notes — Profit Leakage Analysis
+#  Analyst Decision Notes — Profit Leakage Analysis
 
-## 📌 Objective
+##  Objective
 The purpose of this analysis is to identify where and why profits are leaking despite healthy sales performance.  
 Rather than focusing only on revenue, the analysis prioritizes margin health, discount behavior, and loss-making transactions to support better pricing and operational decisions.
 
 ---
 
-## 🔹 Key Metrics Explained & Why They Matter
+##  Key Metrics Explained & Why They Matter
 
-### 1️⃣ Total Sales
+### 1️ Total Sales
 **What it shows:**  
 The overall revenue generated from all transactions.
 
@@ -17,7 +17,7 @@ Sales alone do not reflect business health. High sales can still coexist with po
 
 ---
 
-### 2️⃣ Profit After Discount
+### 2️ Profit After Discount
 **What it shows:**  
 The actual profit generated after accounting for discounts applied to each transaction.
 
@@ -26,7 +26,7 @@ This metric reflects real business profitability. It helps identify whether disc
 
 ---
 
-### 3️⃣ Overall Profit Margin (%)
+### 3️ Overall Profit Margin (%)
 **What it shows:**  
 Weighted profit margin calculated as:
 Total Profit After Discount ÷ Total Sales
@@ -38,7 +38,7 @@ In this analysis, the overall margin remains positive (**0.97%**), but this hide
 
 ---
 
-### 4️⃣ Average Profit Margin (%)
+### 4️ Average Profit Margin (%)
 **What it shows:**  
 The simple average of profit margins across all transactions.
 
@@ -48,7 +48,7 @@ The average margin is **–9.57%**, indicating a large share of loss-making orde
 
 ---
 
-### 5️⃣ Percentage of Loss-Making Transactions
+### 5️ Percentage of Loss-Making Transactions
 **What it shows:**  
 The proportion of orders where profit after discount is negative.
 
@@ -58,7 +58,7 @@ This suggests that discounting and pricing decisions are not aligned with cost s
 
 ---
 
-### 6️⃣ Discount Percentage
+### 6️ Discount Percentage
 **What it shows:**  
 The percentage discount applied relative to sales value.
 
@@ -68,7 +68,7 @@ Higher average discounts correlate strongly with lower profit margins across cat
 
 ---
 
-## 🔹 Category-Level Insights
+##  Category-Level Insights
 
 ### Furniture
 - Highest average discount (≈ **16.8%**)
@@ -100,7 +100,7 @@ Technology pricing strategy is healthier and can serve as a benchmark for other 
 
 ---
 
-## 🔹 Regional Insights
+##  Regional Insights
 
 ### North Asia
 - Largest contributor to total profit
@@ -115,7 +115,7 @@ Regional pricing and discount strategies should be localized instead of uniforml
 
 ---
 
-## 🔹 Key Business Risks Identified
+##  Key Business Risks Identified
 - Over-discounting without ROI tracking
 - High proportion of loss-making orders hidden behind strong sales
 - Margin erosion concentrated in specific categories and regions
@@ -123,7 +123,7 @@ Regional pricing and discount strategies should be localized instead of uniforml
 
 ---
 
-## 🔹 Recommended Actions
+##  Recommended Actions
 - Introduce discount caps at category and SKU level
 - Track loss-making transactions as a KPI, not just total sales
 - Prioritize margin-focused KPIs over revenue-only metrics
